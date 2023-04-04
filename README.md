@@ -1,4 +1,4 @@
-# Hi there 👋, Daniel Lihm here. 
+# Hi there 👋, mid-level frontend guys is here. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -33,6 +33,6 @@ As a mid-level Frontend Developer with 5 years of experience, I have a strong ba
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINIAmpreger&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/NINIAmpreger">NINI Ampreger</a>
+Credits: <a href="https://github.com/top0910">top0910</a>
 
 Date: 10/11/2022
