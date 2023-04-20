@@ -1,4 +1,4 @@
-# Hi there 👋, mid-level frontend guys is here. 
+# Hi there 👋, mid-level frontend guy is here. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
