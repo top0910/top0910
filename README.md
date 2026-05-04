@@ -1,19 +1,16 @@
-# Hi there 👋, mid-level frontend guy is here. 
+# Hi there 👋, Senior software engineering guy is here. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-As a mid-level Frontend Developer with 5 years of experience, I have a strong background in developing web applications and websites using HTML, CSS, JavaScript, and other frontend technologies. I have experience in creating user interfaces with modern web frameworks and libraries such as React and Vue.js. I am proficient in debugging, troubleshooting and optimizing code for performance. Additionally, I have experience in mobile development and remote working with teams.
-
-* **I am interested in Web Development**
-- 🌱 I’m currently learning ...
-  - Angular
-  - Python
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-
+Senior Backend and AI Engineer with 8+ years of experience building data-driven systems and cloud-native platforms across AWS and Azure.
+Strong background in development and data engineering, with hands-on expertise in ETL pipelines, real-time processing, and backend services using different frameworks.
+Experienced in designing distributed systems and high-throughput data workflows, integrating cloud services such as AWS Lambda, EMR, S3, and Azure Data Factory.
+Proven experience applying machine learning techniques, including anomaly detection, predictive modeling, and optimization systems in fintech, healthcare, and adtech domains.
+Skilled in building data pipelines and transforming large-scale datasets into actionable insights for AI-driven decision systems.
+Strong understanding of system design and performance optimization, ensuring efficient and stable production environments.
+Combines strong engineering fundamentals with practical AI/ML application to deliver intelligent automation and measurable business impact.
 
 <h2>👀 My github Stats</h2>
 
@@ -35,4 +32,4 @@ As a mid-level Frontend Developer with 5 years of experience, I have a strong ba
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/top0910">top0910</a>
 
-Date: 10/11/2022
+Date: 05/04/2026
